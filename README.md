@@ -1,2 +1,2 @@
-# test-repository
-This is a second example.
+# My first github test-repository
+ I am a programmer
